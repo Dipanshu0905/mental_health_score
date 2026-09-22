@@ -1,0 +1,1 @@
+"# mental_health_score"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Dipanshu0905/mental_health_score.gitgit push -u origin main
